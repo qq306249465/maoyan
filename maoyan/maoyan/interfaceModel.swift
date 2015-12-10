@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+class InterfaceClass {
+    func getData(){
+        print("111")
+    }
+}
